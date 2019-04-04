@@ -6,3 +6,4 @@
 <img width="583" alt="Screen Shot 2019-04-04 at 09 51 12" src="https://user-images.githubusercontent.com/29083734/55526407-35087600-56bf-11e9-8f4f-9cee06674a87.png">
 
 # Preferences
+- Android guilde: https://developer.android.com/guide/topics/media-apps/media-apps-overview
